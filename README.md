@@ -36,7 +36,3 @@ Based on the analysis, the project outlines actionable strategies for lower-revi
 * **Targeting Niche Communities:** Moving away from mass marketing to target specific blogs, forums, and podcasts catering to specialized interests (e.g., American History, Soul Healing).
 * **User-Generated Content (UGC) Strategy:** Leveraging social media interactions to generate "soft reviews" and drive outside traffic to retail product pages.
 
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
